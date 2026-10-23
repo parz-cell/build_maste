@@ -1,0 +1,56 @@
+﻿id,categoria_slug,nome,fabricante,part_number,preco_centavos,tdp_watts,ativo,spec_socket,spec_microarchitecture,spec_supported_memory_types,spec_max_memory_speed_mhz,spec_cores,spec_threads,spec_base_clock_ghz,spec_boost_clock_ghz,spec_l3_cache_mb,spec_ppt_pl2_max_watts,spec_pcie_version,spec_pcie_gpu_lanes,spec_has_3d_vcache,spec_has_igpu,spec_igpu_model,spec_includes_cooler
+c8fda258-c3d1-551f-ac04-1bf9df3ed316,CPU,Intel Core i5-10400F,Intel,,79715.0,65,True,LGA1200,Comet Lake,['DDR4'],3200,6,6,2.9,4.3,20,117,3.0,16,False,False,,True
+87573436-9767-59ef-a3b8-f87b2d8ca78f,CPU,Intel Core i7-10700K,Intel,,202420.0,125,True,LGA1200,Comet Lake,['DDR4'],3200,8,8,3.8,5.1,20,188,3.0,16,False,True,Intel UHD Graphics 630,False
+ca3dcba3-a470-5945-8604-8e2d6c02b33f,CPU,Intel Core i5-11400F,Intel,,111360.0,65,True,LGA1200,Rocket Lake,['DDR4'],3200,6,6,2.6,4.4,20,117,4.0,16,False,False,,True
+7993f7b3-f55f-54a0-bf33-ca9877982519,CPU,Intel Core i7-11700K,Intel,,170514.0,125,True,LGA1200,Rocket Lake,['DDR4'],3200,8,8,3.6,5.0,20,188,4.0,16,False,True,Intel UHD Graphics 750,False
+f0314847-36bd-5e77-839e-e70f35cb1a4a,CPU,Intel Core i5-10400,Intel,,81194.0,65,True,LGA1200,Comet Lake,['DDR4'],3200,6,6,2.9,4.3,20,117,3.0,16,False,True,Intel UHD Graphics 630,True
+3429d564-b98f-5077-9dd0-24384bf0bab1,CPU,Intel Core i9-10900K,Intel,,,125,True,LGA1200,Comet Lake,['DDR4'],3200,10,10,3.7,5.3,20,188,3.0,16,False,True,Intel UHD Graphics 630,False
+f78469a9-cf7e-560f-a674-58817706e288,CPU,Intel Core i9-11900K,Intel,,260420.0,125,True,LGA1200,Rocket Lake,['DDR4'],3200,8,8,3.5,5.3,20,188,4.0,16,False,True,Intel UHD Graphics 750,False
+00405884-851b-5e45-8b3a-f7bbcf65ab8e,CPU,Intel Core i7-10700F,Intel,,188651.0,65,True,LGA1200,Comet Lake,['DDR4'],3200,8,8,2.9,4.8,20,117,3.0,16,False,False,,True
+064db159-bd02-5993-a260-b749fdc1676a,CPU,Intel Core i3-10100F,Intel,,58000.0,65,True,LGA1200,Comet Lake,['DDR4'],3200,4,4,3.6,4.3,12,117,3.0,16,False,False,,True
+3a250030-60e3-584c-b8cd-dfff386338c3,CPU,Intel Core i7-11700F,Intel,,133394.0,65,True,LGA1200,Rocket Lake,['DDR4'],3200,8,8,2.5,4.9,20,117,4.0,16,False,False,,True
+968511b2-5742-5498-b87b-a0337a29159c,CPU,Intel Core i5-10600K,Intel,,,125,True,LGA1200,Comet Lake,['DDR4'],3200,6,6,4.1,4.8,20,188,3.0,16,False,True,Intel UHD Graphics 630,False
+27e39fd5-c806-5d4b-bc06-367fa86d2e62,CPU,Intel Core i7-10700,Intel,,231820.0,65,True,LGA1200,Comet Lake,['DDR4'],3200,8,8,2.9,4.8,20,117,3.0,16,False,True,Intel UHD Graphics 630,True
+0109b281-0198-580f-8294-e486eaa2d85d,CPU,Intel Core i5-11400,Intel,,92794.0,65,True,LGA1200,Rocket Lake,['DDR4'],3200,6,6,2.6,4.4,20,117,4.0,16,False,True,Intel UHD Graphics 730,True
+4fafd7fb-fe81-5941-9145-bc92507bbfd1,CPU,Intel Core i9-10850K,Intel,,,125,True,LGA1200,Comet Lake,['DDR4'],3200,10,10,3.6,5.2,20,188,3.0,16,False,True,Intel UHD Graphics 630,False
+c7dd5a83-a986-59f9-a0bd-363d0b8c4966,CPU,Intel Core i3-10100,Intel,,57994.0,65,True,LGA1200,Comet Lake,['DDR4'],3200,4,4,3.6,4.3,12,117,3.0,16,False,True,Intel UHD Graphics 630,True
+a951e198-182a-50c7-8e88-c666782203dd,CPU,Intel Core i5-11600K,Intel,,,125,True,LGA1200,Rocket Lake,['DDR4'],3200,6,6,3.9,4.9,20,188,4.0,16,False,True,Intel UHD Graphics 750,False
+1404b2ec-be97-54fd-bbde-d699493aed5f,CPU,Intel Core i7-10700KF,Intel,,142100.0,125,True,LGA1200,Comet Lake,['DDR4'],3200,8,8,3.8,5.1,20,188,3.0,16,False,False,,False
+7c054563-0426-51bd-b776-4000983f1a72,CPU,Intel Core i3-10105F,Intel,,83247.0,65,True,LGA1200,Comet Lake,['DDR4'],3200,4,4,3.7,4.4,12,117,3.0,16,False,False,,True
+31cb5506-c02f-5ff0-9197-9d12930e528d,CPU,Intel Core i7-11700KF,Intel,,205651.0,125,True,LGA1200,Rocket Lake,['DDR4'],3200,8,8,3.6,5.0,20,188,4.0,16,False,False,,False
+b183f90f-f406-5a8c-a443-bf1d9c035435,CPU,Intel Core i7-11700,Intel,,219234.0,65,True,LGA1200,Rocket Lake,['DDR4'],3200,8,8,2.5,4.9,20,117,4.0,16,False,True,Intel UHD Graphics 750,True
+1013ce4c-bf35-5910-8622-de2549b2b5a9,CPU,Intel Core i9-11900KF,Intel,,231420.0,125,True,LGA1200,Rocket Lake,['DDR4'],3200,8,8,3.5,5.3,20,188,4.0,16,False,False,,False
+ea738940-a629-5205-b388-4e4aebf08b8f,CPU,Intel Core i5-11600KF,Intel,,98536.0,125,True,LGA1200,Rocket Lake,['DDR4'],3200,6,6,3.9,4.9,20,188,4.0,16,False,False,,False
+3debdc14-0982-5562-9230-609b568e64b5,CPU,Intel Core i3-10105,Intel,,57420.0,65,True,LGA1200,Comet Lake,['DDR4'],3200,4,4,3.7,4.4,12,117,3.0,16,False,True,Intel UHD Graphics 630,True
+83dceb9c-7899-573f-ab03-67b1e4899011,CPU,Intel Core i5-10600KF,Intel,,137414.0,125,True,LGA1200,Comet Lake,['DDR4'],3200,6,6,4.1,4.8,20,188,3.0,16,False,False,,False
+91e106cb-e1fe-5e83-b9ec-634d37d4a255,CPU,Intel Core i9-10900KF,Intel,,,125,True,LGA1200,Comet Lake,['DDR4'],3200,10,10,3.7,5.3,20,188,3.0,16,False,False,,False
+2d1a17dc-a3f2-5cb6-ae8b-449b5b866a3c,CPU,Intel Core i5-10500,Intel,,133371.0,65,True,LGA1200,Comet Lake,['DDR4'],3200,6,6,3.1,4.5,20,117,3.0,16,False,True,Intel UHD Graphics 630,True
+8e7f8ae7-e21e-5bcc-a2bd-709618b440cd,CPU,Intel Core i9-10980XE,Intel,,582343.0,165,True,LGA1200,Cascade Lake,['DDR4'],3200,18,18,3.0,4.8,20,297,3.0,16,False,False,,False
+fbc5eb56-2c04-5f52-b01f-c50a4ed795fb,CPU,Intel Core i9-10900F,Intel,,,65,True,LGA1200,Comet Lake,['DDR4'],3200,10,10,2.8,5.2,20,117,3.0,16,False,False,,True
+2e9eb698-c1ee-59d9-a115-69393ca8bd02,CPU,Intel Core i9-10900,Intel,,226647.0,65,True,LGA1200,Comet Lake,['DDR4'],3200,10,10,2.8,5.2,20,117,3.0,16,False,True,Intel UHD Graphics 630,True
+7156c724-37a0-5327-88ec-453bee4cd695,CPU,Intel Celeron G5900,Intel,,26216.0,58,True,LGA1200,Comet Lake,['DDR4'],3200,2,2,3.4,4.2,64,104,3.0,16,False,True,Intel UHD Graphics 610,True
+575f44ea-9a21-55c5-bc90-e1176fae70fb,CPU,Intel Core i9-10900X,Intel,,278394.0,165,True,LGA1200,Cascade Lake,['DDR4'],3200,10,10,3.7,4.7,20,297,3.0,16,False,False,,False
+b4ced0a0-86b9-5da6-b79c-d6d7cd9a7be9,CPU,Intel Core i5-11600,Intel,,81200.0,65,True,LGA1200,Rocket Lake,['DDR4'],3200,6,6,2.8,4.8,20,117,4.0,16,False,True,Intel UHD Graphics 750,True
+df7c05d9-deb8-5261-a4dc-d7a79a67a889,CPU,Intel Core i5-11500,Intel,,92800.0,65,True,LGA1200,Rocket Lake,['DDR4'],3200,6,6,2.7,4.6,20,117,4.0,16,False,True,Intel UHD Graphics 750,True
+98a9c5dc-bff1-5472-bfe9-4cbbac728af5,CPU,Intel Core i9-11900F,Intel,,190820.0,65,True,LGA1200,Rocket Lake,['DDR4'],3200,8,8,2.5,5.2,20,117,4.0,16,False,False,,True
+9e37f26b-b84c-510a-ab4b-f0c54c7d5db1,CPU,Intel Celeron G5905,Intel,,30038.0,58,True,LGA1200,Comet Lake,['DDR4'],3200,2,2,3.5,4.3,12,104,3.0,16,False,True,Intel UHD Graphics 610,True
+8253a8fd-f06b-5c51-a095-f2a0a1b12992,CPU,Intel Core i5-10600,Intel,,307371.0,65,True,LGA1200,Comet Lake,['DDR4'],3200,6,6,3.3,4.8,20,117,3.0,16,False,True,Intel UHD Graphics 630,True
+2c728c9d-d77c-53f1-8e6b-ecd5b78e3e48,CPU,Intel Pentium Gold G6600,Intel,,,58,True,LGA1200,Comet Lake,['DDR4'],3200,2,2,4.2,5.0,12,104,3.0,16,False,True,Intel UHD Graphics 630,True
+371de494-5e91-526e-9072-edfebf0a2f45,CPU,Intel Core i9-10920X,Intel,,446525.0,165,True,LGA1200,Cascade Lake,['DDR4'],3200,12,12,3.5,4.8,20,297,3.0,16,False,False,,False
+40f89da3-446d-5dc2-b72d-c611eab3aa27,CPU,Intel Core i9-11900,Intel,,226774.0,65,True,LGA1200,Rocket Lake,['DDR4'],3200,8,8,2.5,5.2,20,117,4.0,16,False,True,Intel UHD Graphics 750,True
+5bae7259-b496-5eea-9664-2a48b87b2ad9,CPU,Intel Pentium Gold G6400,Intel,,38831.0,58,True,LGA1200,Comet Lake,['DDR4'],3200,2,2,4.0,4.8,12,104,3.0,16,False,True,Intel UHD Graphics 610,True
+55f9cb69-8c27-5a85-bbed-a4414a6bf59a,CPU,Intel Core i9-10940X,Intel,,405994.0,165,True,LGA1200,Cascade Lake,['DDR4'],3200,14,14,3.3,4.8,20,297,3.0,16,False,False,,False
+9b742912-d887-5034-a1be-1c9db04c1bd7,CPU,Intel Celeron G5925,Intel,,,58,True,LGA1200,Comet Lake,['DDR4'],3200,2,2,3.6,4.4,12,104,3.0,16,False,True,Intel UHD Graphics 610,True
+82f9817a-5701-526b-a262-abdf2f55a968,CPU,Intel Core i3-10100T,Intel,,,35,True,LGA1200,Comet Lake,['DDR4'],3200,4,4,3.0,3.8,12,63,3.0,16,False,True,Intel UHD Graphics 630,True
+6f354992-0abc-5a28-8539-5a1edd007030,CPU,Intel Core i3-10300,Intel,,,65,True,LGA1200,Comet Lake,['DDR4'],3200,4,4,3.7,4.4,12,117,3.0,16,False,True,Intel UHD Graphics 630,True
+a15c2c77-cdde-5392-8e4e-a9940cfb14d7,CPU,Intel Core i7-10700K Avengers Collector's Edition,Intel,,429780.0,125,True,LGA1200,Comet Lake,['DDR4'],3200,8,8,3.8,5.1,20,188,3.0,16,False,True,Intel UHD Graphics 630,False
+8fe51eef-a022-50e7-a78a-2ededad5169b,CPU,Intel Pentium Gold G6405,Intel,,55094.0,58,True,LGA1200,Comet Lake,['DDR4'],3200,2,2,4.1,4.8999999999999995,12,104,3.0,16,False,True,Intel UHD Graphics 610,True
+7e4184d8-d1b7-5188-9829-336fc29bd3bf,CPU,Intel Core i3-10320,Intel,,69600.0,65,True,LGA1200,Comet Lake,['DDR4'],3200,4,4,3.8,4.6,12,117,3.0,16,False,True,Intel UHD Graphics 630,True
+f2281326-5bf5-5322-8f8d-4d3d08cdee3f,CPU,Intel Core i9-10850KA Avengers Limited Edition,Intel,,,125,True,LGA1200,Comet Lake,['DDR4'],3200,10,10,3.6,5.2,20,188,3.0,16,False,True,Intel UHD Graphics 630,False
+dc1734e8-a4f1-5ff3-be9c-bfd41c64aa22,CPU,Intel Pentium Gold G6605,Intel,,,58,True,LGA1200,Comet Lake,['DDR4'],3200,2,2,4.3,5.1,12,104,3.0,16,False,True,Intel UHD Graphics 630,True
+2dfc7e4b-2d42-5da8-90cc-3d85de51d954,CPU,Intel Core i3-10325,Intel,,,65,True,LGA1200,Comet Lake,['DDR4'],3200,4,4,3.9,4.7,12,117,3.0,16,False,True,Intel UHD Graphics 630,True
+b0e262b6-6da8-5607-9946-47b109e9921a,CPU,Intel Celeron G5920,Intel,,,58,True,LGA1200,Comet Lake,['DDR4'],3200,2,2,3.5,4.3,12,104,3.0,16,False,True,Intel UHD Graphics 610,True
+7898167e-841f-5c81-8a2f-741dbf110eab,CPU,Intel Pentium G6950,Intel,,21999.0,73,True,LGA1200,Westmere,['DDR4'],3200,2,2,2.8,3.5999999999999996,12,131,4.0,16,False,True,Intel HD Graphics,True
+b698bd5f-68ec-5df5-9f1d-4f0ffd5784b7,CPU,Intel Celeron G5905T,Intel,,,35,True,LGA1200,Comet Lake,['DDR4'],3200,2,2,3.3,4.1,12,63,3.0,16,False,True,Intel UHD Graphics 610,True
+5f207a4a-1319-540f-a81e-93bcf79d9b69,CPU,Intel Pentium Gold G6500,Intel,,,58,True,LGA1200,Comet Lake,['DDR4'],3200,2,2,4.1,4.8999999999999995,12,104,3.0,16,False,True,Intel UHD Graphics 630,True
+df00343f-ea80-5c57-a1d3-36402158c04b,CPU,Intel Core i3-10305,Intel,,,65,True,LGA1200,Comet Lake,['DDR4'],3200,4,4,3.8,4.5,12,117,3.0,16,False,True,Intel UHD Graphics 630,True

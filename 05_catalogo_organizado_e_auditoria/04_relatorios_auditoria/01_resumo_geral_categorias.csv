@@ -1,0 +1,9 @@
+﻿Categoria,Total de Peças,Fabricantes Únicos,Colunas Técnicas (JSONB),Peças c/ Preço Ref.,Preço Médio Ref. (R$),Planilha Gerada
+CASE,4211,160,12,535 (12.7%),R$ 965.17,case_planilha_completa.csv
+COOLER,2300,107,9,653 (28.4%),R$ 625.73,cooler_planilha_completa.csv
+PSU,2129,106,9,333 (15.6%),"R$ 1,134.45",psu_planilha_completa.csv
+MOTHERBOARD,2101,11,14,782 (37.2%),"R$ 1,610.99",motherboard_planilha_completa.csv
+RAM,1859,46,11,433 (23.3%),"R$ 1,718.13",ram_planilha_completa.csv
+STORAGE,1797,99,8,437 (24.3%),"R$ 1,115.90",storage_planilha_completa.csv
+GPU,855,29,9,179 (20.9%),"R$ 5,510.26",gpu_planilha_completa.csv
+CPU,212,2,16,152 (71.7%),"R$ 1,586.80",cpu_planilha_completa.csv

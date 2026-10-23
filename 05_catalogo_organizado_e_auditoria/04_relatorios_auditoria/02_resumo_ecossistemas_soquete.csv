@@ -1,0 +1,6 @@
+﻿Soquete,Total CPUs,CPUs c/ Vídeo Integrado,Total Placas-Mãe,Placas DDR4,Placas DDR5,Pasta no Drive
+AM4,59,13 (22.0%),481,481,0,03_ecossistemas_por_soquete/AM4/
+AM5,28,25 (89.3%),388,0,388,03_ecossistemas_por_soquete/AM5/
+LGA1200,55,37 (67.3%),366,366,0,03_ecossistemas_por_soquete/LGA1200/
+LGA1700,59,37 (62.7%),679,327,352,03_ecossistemas_por_soquete/LGA1700/
+LGA1851,11,7 (63.6%),187,0,187,03_ecossistemas_por_soquete/LGA1851/

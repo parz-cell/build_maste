@@ -1,0 +1,29 @@
+﻿id,categoria_slug,nome,fabricante,part_number,preco_centavos,tdp_watts,ativo,spec_socket,spec_microarchitecture,spec_supported_memory_types,spec_max_memory_speed_mhz,spec_cores,spec_threads,spec_base_clock_ghz,spec_boost_clock_ghz,spec_l3_cache_mb,spec_ppt_pl2_max_watts,spec_pcie_version,spec_pcie_gpu_lanes,spec_has_3d_vcache,spec_has_igpu,spec_igpu_model,spec_includes_cooler
+808ce9fd-9c1c-56fb-8ad2-76994d61ec1b,CPU,AMD Ryzen 7 9800X3D,AMD,,261870.0,120,True,AM5,Zen 5,['DDR5'],5200,8,8,4.7,5.2,96,162,5.0,16,True,True,Radeon,False
+26371205-fd49-5129-88f4-cd1b0605084c,CPU,AMD Ryzen 7 7800X3D,AMD,,250363.0,120,True,AM5,Zen 4,['DDR5'],5200,8,8,4.2,5.0,96,162,5.0,16,True,True,Radeon,False
+05f95e27-7aaf-5362-b444-b0adbae7fe16,CPU,AMD Ryzen 5 7600X,AMD,,98884.0,105,True,AM5,Zen 4,['DDR5'],5200,6,6,4.7,5.3,32,142,5.0,16,False,True,Radeon,False
+697e4f11-b1bd-5d3f-98f0-0c88f7cbd000,CPU,AMD Ryzen 5 9600X,AMD,,118894.0,65,True,AM5,Zen 5,['DDR5'],5200,6,6,3.9,5.4,32,88,5.0,16,False,True,Radeon,False
+cc319a75-b537-5ab3-98bd-45d460d3b2c6,CPU,AMD Ryzen 7 7700X,AMD,,140928.0,105,True,AM5,Zen 4,['DDR5'],5200,8,8,4.5,5.4,32,142,5.0,16,False,True,Radeon,False
+bd1449fe-7e80-5098-a903-177d9bed39ab,CPU,AMD Ryzen 9 9950X3D,AMD,,376994.0,170,True,AM5,Zen 5,['DDR5'],5200,16,16,4.3,5.7,128,230,5.0,16,True,True,Radeon,False
+14956b46-6ec0-5392-9dc1-b1f8ef07c9f3,CPU,AMD Ryzen 7 9700X,AMD,,177416.0,65,True,AM5,Zen 5,['DDR5'],5200,8,8,3.8,5.5,32,88,5.0,16,False,True,Radeon,False
+51a882ce-794c-50b1-80d7-5624f9733f03,CPU,AMD Ryzen 5 7600,AMD,,114243.0,65,True,AM5,Zen 4,['DDR5'],5200,6,6,3.8,5.1,32,88,5.0,16,False,True,Radeon,True
+90c8d315-691b-52ff-957e-90b90907bdf0,CPU,AMD Ryzen 9 7900X,AMD,,182184.0,170,True,AM5,Zen 4,['DDR5'],5200,12,12,4.7,5.6,64,230,5.0,16,False,True,Radeon,False
+de70b2f4-3162-52df-9c5f-e79243baaa45,CPU,AMD Ryzen 9 9900X,AMD,,208220.0,120,True,AM5,Zen 5,['DDR5'],5200,12,12,4.4,5.6,64,162,5.0,16,False,True,Radeon,False
+813d8d23-3539-5629-abba-29d1361416d9,CPU,AMD Ryzen 9 9950X,AMD,,309621.0,170,True,AM5,Zen 5,['DDR5'],5200,16,16,4.3,5.7,64,230,5.0,16,False,True,Radeon,False
+4ed1635f-0717-5da3-9d97-5975285a0ce3,CPU,AMD Ryzen 5 7500F,AMD,,,65,True,AM5,Zen 4,['DDR5'],5200,6,6,3.7,5.0,32,88,5.0,16,False,False,,True
+f632c7be-a18a-5c23-af89-8e95948cf368,CPU,AMD Ryzen 5 7600X3D,AMD,,,65,True,AM5,Zen 4,['DDR5'],5200,6,6,4.1,4.7,96,88,5.0,16,True,True,Radeon,False
+f5853922-d06f-5b7d-b744-4da18ae3501d,CPU,AMD Ryzen 7 7700,AMD,,227986.0,65,True,AM5,Zen 4,['DDR5'],5200,8,8,3.6,5.3,32,88,5.0,16,False,True,Radeon,True
+f809a36b-f880-5b4c-913e-924eac3aaaf5,CPU,AMD Ryzen 5 8400F,AMD,,79791.0,65,True,AM5,Zen 4,['DDR5'],5200,6,6,4.2,4.7,32,88,5.0,16,False,False,,True
+b67d407a-0394-5b44-a898-15ba699e5e34,CPU,AMD Ryzen 5 8500G,AMD,,88450.0,65,True,AM5,Zen 4,['DDR5'],5200,6,6,4.1,5.0,16,88,4.0,4,False,True,Radeon 740M,True
+a6dafea0-4b22-5564-a415-5bbb524a3dc1,CPU,AMD Ryzen 9 7950X,AMD,,260977.0,170,True,AM5,Zen 4,['DDR5'],5200,16,16,4.5,5.7,64,230,5.0,16,False,True,Radeon,False
+02681726-fc53-5334-a771-09b3673d3d8d,CPU,AMD Ryzen 5 8600G,AMD,,130401.0,65,True,AM5,Zen 4,['DDR5'],5200,6,6,4.3,5.0,16,88,4.0,8,False,True,Radeon 760M,True
+b0ea06fa-1d1f-538c-b773-f8a700808621,CPU,AMD Ryzen 9 9900X3D,AMD,,313188.0,120,True,AM5,Zen 5,['DDR5'],5200,12,12,4.4,5.5,128,162,5.0,16,True,True,Radeon,False
+6fad2e5a-8999-55be-bb82-4425d8957ab8,CPU,AMD Ryzen 9 7950X3D,AMD,,446177.0,120,True,AM5,Zen 4,['DDR5'],5200,16,16,4.2,5.7,128,162,5.0,16,True,True,Radeon,False
+47fb4660-4732-5473-84e0-1c590f1952ad,CPU,AMD Ryzen 7 8700G,AMD,,161820.0,65,True,AM5,Zen 4,['DDR5'],5200,8,8,4.2,5.1,16,88,4.0,8,False,True,Radeon 780M,True
+a35b60fd-a1a0-50e9-90e1-a367bed81648,CPU,AMD Ryzen 7 8700F,AMD,,139194.0,65,True,AM5,Zen 4,['DDR5'],5200,8,8,4.1,5.0,32,88,5.0,16,False,False,,True
+4017d969-0b79-59c8-923c-5427f4709fdd,CPU,AMD Ryzen 9 7900,AMD,,198905.0,65,True,AM5,Zen 4,['DDR5'],5200,12,12,3.7,5.4,64,88,5.0,16,False,True,Radeon,True
+d261525c-079d-5abd-996a-344776d316da,CPU,AMD Ryzen 9 7900X3D,AMD,,,120,True,AM5,Zen 4,['DDR5'],5200,12,12,4.4,5.6,128,162,5.0,16,True,True,Radeon,False
+64a5184b-d1d2-585a-998e-38d61e53ae06,CPU,AMD Ryzen 5 9600,AMD,,271179.0,65,True,AM5,Zen 5,['DDR5'],5200,6,6,3.8,5.2,32,88,5.0,16,False,True,Radeon,True
+ba7ec6c3-4af6-5395-9e5a-5605e2895097,CPU,AMD Ryzen 9 PRO 7945,AMD,,,65,True,AM5,Zen 4,['DDR5'],5200,12,12,3.7,5.4,32,88,5.0,16,False,True,Radeon,True
+c4b0c600-26d9-5bef-9ab9-c9c89058728f,CPU,AMD Ryzen 5 PRO 7645,AMD,,,65,True,AM5,Zen 4,['DDR5'],5200,6,6,3.8,5.1,32,88,5.0,16,False,True,Radeon,True
+c1d4c20e-1086-517d-9c34-3c00ed9b5ba8,CPU,AMD Ryzen 7 PRO 7745,AMD,,,65,True,AM5,Zen 4,['DDR5'],5200,8,8,3.8,5.3,32,88,5.0,16,False,True,Radeon,True

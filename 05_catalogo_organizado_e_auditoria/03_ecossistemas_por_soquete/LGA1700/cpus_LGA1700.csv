@@ -1,0 +1,60 @@
+﻿id,categoria_slug,nome,fabricante,part_number,preco_centavos,tdp_watts,ativo,spec_socket,spec_microarchitecture,spec_supported_memory_types,spec_max_memory_speed_mhz,spec_cores,spec_threads,spec_base_clock_ghz,spec_boost_clock_ghz,spec_l3_cache_mb,spec_ppt_pl2_max_watts,spec_pcie_version,spec_pcie_gpu_lanes,spec_has_3d_vcache,spec_has_igpu,spec_igpu_model,spec_includes_cooler
+c2e5d3da-f3a1-5a52-94b3-f96f17dfef06,CPU,Intel Core i7-14700K,Intel,,172359.0,125,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,20,28,3.4,5.6,30,253,5.0,16,False,True,Intel UHD Graphics 770,False
+ed7a8177-ba51-512a-8599-0e2469ce291f,CPU,Intel Core i9-14900K,Intel,,254620.0,125,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,24,32,3.2,6.0,36,253,5.0,16,False,True,Intel UHD Graphics 770,False
+fd6ab481-51c4-5285-bf55-7fbdbcf466f1,CPU,Intel Core i5-12400F,Intel,,63214.0,65,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,6,6,2.5,4.4,20,117,5.0,16,False,False,,True
+df1ee089-8f1e-570c-a72c-9226189a0b9a,CPU,Intel Core i5-14600K,Intel,,110194.0,125,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,14,20,3.5,5.3,20,181,5.0,16,False,True,Intel UHD Graphics 770,False
+4ef0cac0-0997-5965-ad50-865e564fd123,CPU,Intel Core i5-14400F,Intel,,73074.0,65,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,10,16,2.5,4.7,20,117,5.0,16,False,False,,True
+a6074944-bb4e-553e-bbea-b0f5ea1ebf45,CPU,Intel Core i7-12700K,Intel,,124207.0,125,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,12,20,3.6,5.0,20,181,5.0,16,False,True,Intel UHD Graphics 770,False
+112640a0-ceec-5295-836e-6d0109f722f3,CPU,Intel Core i5-13400F,Intel,,87853.0,65,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,10,16,2.5,4.6,20,117,5.0,16,False,False,,True
+82b904d7-1703-5a99-ac61-33639e2e3d1c,CPU,Intel Core i7-12700KF,Intel,,101494.0,125,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,12,20,3.6,5.0,20,181,5.0,16,False,False,,False
+76c9a8ed-670e-586a-a467-02628f929517,CPU,Intel Core i5-12600KF,Intel,,75394.0,125,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,10,16,3.7,4.9,20,188,5.0,16,False,False,,False
+936d8a0b-4323-5a12-a4aa-a0e26223fbc5,CPU,Intel Core i5-12600K,Intel,,85950.0,125,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,10,16,3.7,4.9,20,188,5.0,16,False,True,Intel UHD Graphics 770,False
+a5b06d36-68a5-59d3-acff-e5217def5295,CPU,Intel Core i3-12100F,Intel,,46081.0,58,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,4,4,3.3,4.3,12,104,5.0,16,False,False,,True
+caa49628-18a8-5905-bb69-581f701c511a,CPU,Intel Core i5-14600KF,Intel,,114828.0,125,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,14,20,3.5,5.3,20,181,5.0,16,False,False,,False
+54f484f3-bd02-50ca-8219-8d3c085a0560,CPU,Intel Core i7-14700KF,Intel,,182091.0,125,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,20,28,3.4,5.6,30,253,5.0,16,False,False,,False
+f0371e45-397b-55f8-969f-8807950ef69b,CPU,Intel Core i9-12900K,Intel,,165874.0,125,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,16,24,3.2,5.2,30,253,5.0,16,False,True,Intel UHD Graphics 770,False
+13b5c942-b89d-5a5f-ab93-886f942bf1ab,CPU,Intel Core i9-14900KF,Intel,,243583.0,125,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,24,32,3.2,6.0,36,253,5.0,16,False,False,,False
+b4aa097c-0888-57cd-bd3f-4c366e9de67a,CPU,Intel Core i7-13700K,Intel,,226391.0,125,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,16,24,3.4,5.4,30,253,5.0,16,False,True,Intel UHD Graphics 770,False
+a4baa19a-02f2-59f7-b166-c8de3cab1d61,CPU,Intel Core i9-14900KS,Intel,,371183.0,150,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,24,32,3.2,6.2,36,253,5.0,16,False,True,Intel UHD Graphics 770,False
+b1466994-7458-5e7d-8168-d100d35cad2b,CPU,Intel Core i5-13600KF,Intel,,113622.0,125,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,14,20,3.5,5.1,20,181,5.0,16,False,False,,False
+322b4a3b-3665-5811-bb71-d77190250094,CPU,Intel Core i7-14700F,Intel,,170856.0,65,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,20,28,2.1,5.4,30,117,5.0,16,False,False,,True
+dff94f82-60a4-5233-bcff-59a1af5c4b07,CPU,Intel Core i9-13900K,Intel,,251720.0,125,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,24,32,3.0,5.8,64,253,5.0,16,False,True,Intel UHD Graphics 770,False
+d06b5901-8457-5f37-abfb-f291f84d66ef,CPU,Intel Core i5-12400,Intel,,83259.0,65,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,6,6,2.5,4.4,20,117,5.0,16,False,True,Intel UHD Graphics 730,True
+45473f5a-9176-5aa1-8d94-6c7e102f102d,CPU,Intel Core i3-14100F,Intel,,52229.0,58,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,4,4,3.5,4.7,12,104,5.0,16,False,False,,True
+b37e2ead-8632-58a7-9fb5-1f7d3a06a8a5,CPU,Intel Core i9-12900KF,Intel,,154094.0,125,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,16,24,3.2,5.2,30,253,5.0,16,False,False,,False
+d7822cdb-aae6-50f5-aef1-875d8dc06f53,CPU,Intel Core i5-13600K,Intel,,173994.0,125,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,14,20,3.5,5.1,20,181,5.0,16,False,True,Intel UHD Graphics 770,False
+db5ba5fd-03f5-5ac0-b753-26397ec71b53,CPU,Intel Core i7-13700KF,Intel,,173420.0,125,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,16,24,3.4,5.4,30,253,5.0,16,False,False,,False
+eb8054cb-fbdb-53f4-847d-fe7c53fa7c40,CPU,Intel Core i5-14400,Intel,,102068.0,65,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,10,16,2.5,4.7,20,117,5.0,16,False,True,Intel UHD Graphics 730,True
+ab114848-e363-55d0-b2e7-1e12cc7eb62d,CPU,Intel Core i7-12700F,Intel,,143260.0,65,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,12,20,2.1,4.9,20,117,5.0,16,False,False,,True
+45323619-179e-5fee-9816-f81d263a8600,CPU,Intel Core i3-12100,Intel,,65876.0,60,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,4,4,3.3,4.3,12,108,5.0,16,False,True,Intel UHD Graphics 730,True
+65c64a90-fc35-544e-bdf7-54ad7f015643,CPU,Intel Core i3-14100,Intel,,69571.0,60,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,4,4,3.5,4.7,12,108,5.0,16,False,True,Intel UHD Graphics 730,True
+3270ebc3-f06a-5fe3-9e98-78d117eaea4d,CPU,Intel Core i3-13100F,Intel,,49497.0,58,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,4,4,3.4,4.5,12,104,5.0,16,False,False,,True
+4b29ed5a-3182-5ab4-9733-14f83979e9e4,CPU,Intel Core i5-13400,Intel,,95149.0,65,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,10,16,2.5,4.6,20,117,5.0,16,False,True,Intel UHD Graphics 730,True
+db5191f5-52a8-5b12-bc47-048cfbe2eedf,CPU,Intel Core i7-13700F,Intel,,147900.0,65,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,16,24,2.1,5.2,30,117,5.0,16,False,False,,True
+497ef580-785d-50f9-b792-b3fab1d1a4ac,CPU,Intel Core i9-13900KF,Intel,,252300.0,125,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,24,32,3.0,5.8,64,253,5.0,16,False,False,,False
+5f213ecf-fee3-5747-89a2-f8d2bd670602,CPU,Intel Core i7-14700,Intel,,177799.0,65,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,20,28,2.1,5.4,30,117,5.0,16,False,True,Intel UHD Graphics 770,True
+93ea7971-7a6d-59fa-9ff3-430088f10d6c,CPU,Intel Core i5-13500,Intel,,136294.0,65,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,14,14,2.5,4.8,20,117,5.0,16,False,True,Intel UHD Graphics 770,True
+752934fe-754b-5452-b4c8-74a6f51b3537,CPU,Intel Core i7-12700,Intel,,168183.0,65,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,12,20,2.1,4.9,20,117,5.0,16,False,True,Intel UHD Graphics 770,True
+91c942e3-56de-5b58-9ca7-58dad11616e1,CPU,Intel Core i5-14500,Intel,,138092.0,65,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,14,14,2.6,5.0,20,117,5.0,16,False,True,Intel UHD Graphics 770,True
+1e495847-a494-5c56-8ebf-6243a8065549,CPU,Intel Core i9-13900KS,Intel,,248820.0,150,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,24,32,3.0,6.0,64,253,5.0,16,False,True,Intel UHD Graphics 770,False
+8a831633-2b11-5529-b071-ba3e7a7ae432,CPU,Intel Core i9-12900KS,Intel,,220394.0,150,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,16,24,3.4,5.5,30,253,5.0,16,False,True,Intel UHD Graphics 770,False
+ea77ef4c-a230-530a-9914-390dcbc55a39,CPU,Intel Core i5-12500,Intel,,104354.0,65,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,6,6,3.0,4.6,20,117,5.0,16,False,True,Intel UHD Graphics 770,True
+0ba6100c-a95e-5e33-a980-badeb77993b0,CPU,Intel Core i3-13100,Intel,,72645.0,60,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,4,4,3.4,4.5,12,108,5.0,16,False,True,Intel UHD Graphics 730,True
+2435247c-5131-5148-b9e3-e91389ca3679,CPU,Intel Core i7-13700,Intel,,185559.0,65,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,16,24,2.1,5.2,30,117,5.0,16,False,True,Intel UHD Graphics 770,True
+3abc67c7-f433-5aa8-bf76-d4a6b4488ec5,CPU,Intel Core i9-14900F,Intel,,289420.0,65,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,24,32,2.0,5.8,36,117,5.0,16,False,False,,True
+25d40269-6bb7-5ed8-9ea8-d03dd235ec65,CPU,Intel Core i9-14900,Intel,,331679.0,65,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,24,32,2.0,5.8,36,117,5.0,16,False,True,Intel UHD Graphics 770,True
+ddba7faa-5037-5863-ab6c-f362665286ed,CPU,Intel Celeron G6900,Intel,,54352.0,46,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,2,2,3.4,4.2,12,83,5.0,16,False,True,Intel UHD Graphics 710,True
+373d826d-5890-58d0-9f67-0606887c22c6,CPU,Intel Core i9-13900,Intel,,240694.0,65,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,24,32,2.0,5.6,64,117,5.0,16,False,True,Intel UHD Graphics 770,True
+25cdef16-ec80-5ee0-b435-8bd42155e504,CPU,Intel Pentium Gold G7400,Intel,,52200.0,46,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,2,2,3.7,4.5,12,83,5.0,16,False,True,Intel UHD Graphics 710,True
+990d270b-f9aa-5569-8bb8-990dc791c459,CPU,Intel Core i5-12600,Intel,,144994.0,65,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,6,6,3.3,4.8,20,117,5.0,16,False,True,Intel UHD Graphics 770,True
+b21bd057-a6db-5ce3-b931-09741e418168,CPU,Intel Core i5-13500T,Intel,,,35,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,14,14,1.6,4.6,20,63,5.0,16,False,True,Intel UHD Graphics 770,True
+ad7ec062-1fc7-5d6f-8d58-662cb0697015,CPU,Intel Core i9-13900F,Intel,,299529.0,65,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,24,32,2.0,5.6,64,117,5.0,16,False,False,,True
+02f0f585-020e-533a-aadb-4e6c33e0ad06,CPU,Intel Core i9-12900F,Intel,,208736.0,65,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,16,24,2.4,5.1,30,117,5.0,16,False,False,,True
+c90d6a8b-4c44-53d7-83cc-639818627688,CPU,Intel Core i9-12900,Intel,,227012.0,65,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,16,24,2.4,5.1,30,117,5.0,16,False,True,Intel UHD Graphics 770,True
+d120d7f8-846c-548e-8cfa-8e31cc8304e2,CPU,Intel Core i5-14500T,Intel,,,35,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,14,14,1.7,4.8,20,63,5.0,16,False,True,Intel UHD Graphics 770,True
+83805424-a468-5896-85d1-94aab45b7aa0,CPU,Intel Core i3-12100T,Intel,,,35,True,LGA1700,Alder Lake,"['DDR4', 'DDR5']",5600,4,4,2.2,4.1,12,63,5.0,16,False,True,Intel UHD Graphics 730,True
+1eed1f7b-453d-521a-a32e-99ccb8a7126e,CPU,Intel Core i9-13900T,Intel,,,35,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,24,32,1.1,5.3,64,63,5.0,16,False,True,Intel UHD Graphics 770,True
+054d0e46-8dad-5c7b-960e-c82f68f7cd9a,CPU,Intel 300,Intel,,61109.0,46,True,LGA1700,Raptor Lake Refresh,"['DDR4', 'DDR5']",5600,2,2,3.9,4.7,12,83,5.0,16,False,True,Intel UHD Graphics 710,True
+693ea3aa-6e64-5cf6-a3f9-36086447058c,CPU,Intel Core i7-13700T,Intel,,,35,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,16,24,1.4,4.9,30,63,5.0,16,False,False,,True
+184f3b10-4be2-5e85-8385-a17b56167d06,CPU,Intel Core i5-13600,Intel,,,65,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,14,14,2.7,5.0,20,117,5.0,16,False,True,Intel UHD Graphics 770,True
+0034270e-539b-5ebb-830c-a30e4c2b4087,CPU,Intel Core i3-13100T,Intel,,,35,True,LGA1700,Raptor Lake,"['DDR4', 'DDR5']",5600,4,4,2.5,4.2,12,63,5.0,16,False,True,Intel UHD Graphics 730,True

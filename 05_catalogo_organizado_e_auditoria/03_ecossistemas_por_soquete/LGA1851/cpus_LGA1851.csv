@@ -1,0 +1,12 @@
+﻿id,categoria_slug,nome,fabricante,part_number,preco_centavos,tdp_watts,ativo,spec_socket,spec_microarchitecture,spec_supported_memory_types,spec_max_memory_speed_mhz,spec_cores,spec_threads,spec_base_clock_ghz,spec_boost_clock_ghz,spec_l3_cache_mb,spec_ppt_pl2_max_watts,spec_pcie_version,spec_pcie_gpu_lanes,spec_has_3d_vcache,spec_has_igpu,spec_igpu_model,spec_includes_cooler
+ef3fddbc-e6b3-5ded-ac5a-9e60ca0afa97,CPU,Intel Core Ultra 7 265K,Intel,,156594.0,125,True,LGA1851,Arrow Lake,['DDR5'],6400,20,20,3.9,5.5,30,253,5.0,16,False,True,Intel Xe,False
+6e324c04-3626-5d8b-bf78-21318037b489,CPU,Intel Core Ultra 9 285K,Intel,,324794.0,125,True,LGA1851,Arrow Lake,['DDR5'],6400,24,24,3.7,5.7,36,253,5.0,16,False,True,Intel Xe,False
+9579c5df-6d7f-5c5e-aa2e-ee5cf55cc888,CPU,Intel Core Ultra 7 265KF,Intel,,160915.0,125,True,LGA1851,Arrow Lake,['DDR5'],6400,20,20,3.9,5.5,30,253,5.0,16,False,False,,False
+98ad45e3-a6ea-5d15-bd95-7fb124ec733f,CPU,Intel Core Ultra 5 245K,Intel,,150794.0,125,True,LGA1851,Arrow Lake,['DDR5'],6400,14,14,4.2,5.2,20,181,5.0,16,False,True,Intel Xe,False
+86324970-947d-53ba-aaa2-9eafbb124ca8,CPU,Intel Core Ultra 5 225F,Intel,,110681.0,65,True,LGA1851,Arrow Lake,['DDR5'],6400,10,10,3.3,4.9,20,117,5.0,16,False,False,,True
+8c849984-1932-5519-a4f6-8d3c379209c6,CPU,Intel Core Ultra 5 235,Intel,,153694.0,65,True,LGA1851,Arrow Lake,['DDR5'],6400,14,14,3.4,5.0,20,117,5.0,16,False,True,Intel Xe,True
+35f36d3b-82bd-5e7c-a302-6b1749cb7836,CPU,Intel Core Ultra 5 225,Intel,,123546.0,65,True,LGA1851,Arrow Lake,['DDR5'],6400,10,10,3.3,4.9,20,117,5.0,16,False,True,Intel Xe,True
+23db812e-99bf-5c80-9c16-ed218c06d8b1,CPU,Intel Core Ultra 9 285,Intel,,336394.0,65,True,LGA1851,Arrow Lake,['DDR5'],6400,24,24,2.5,5.6,20,117,5.0,16,False,True,Intel Xe,True
+5661d4ea-11e7-5f4e-bce7-0b7418f2e0dc,CPU,Intel Core Ultra 7 265,Intel,,217494.0,65,True,LGA1851,Arrow Lake,['DDR5'],6400,20,20,2.4,5.3,20,117,5.0,16,False,True,Intel Xe,True
+533cf3f5-5172-5fda-b171-073e4c633f2a,CPU,Intel Core Ultra 7 265F,Intel,,156594.0,65,True,LGA1851,Arrow Lake,['DDR5'],6400,20,20,2.4,5.3,20,117,5.0,16,False,False,,True
+2a4f14b8-6e85-5cf7-8675-4cb7566871cd,CPU,Intel Core Ultra 5 245KF,Intel,,165294.0,125,True,LGA1851,Arrow Lake,['DDR5'],6400,14,14,4.2,5.2,20,181,5.0,16,False,False,,False
